@@ -1,0 +1,4 @@
+browser=chrome
+url=http://www.express.com
+runMode=local 
+env=qa 
